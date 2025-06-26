@@ -3,4 +3,4 @@ Scrape books (title, price, availability) from https://books.toscrape.com/index.
 
 Scrape posts/comments from Reddit using API and praw. 
 
-![image](https://github.com/fyli16/Data-crawler-for-books-posts-comments/data_samples.png)
+![image](https://github.com/fyli16/Data-crawler-for-books-posts-comments/blob/main/data_samples.png)
